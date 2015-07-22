@@ -1,1 +1,15 @@
 Console.log("This is my first GitHub checkin code");
+
+function oddball( array)
+{
+ if (sum%2 !=0)
+  {
+     flag =flag +1;
+  }
+
+ if(flag >0)
+{
+  Console.log("Odd number detected!");
+}
+else
+
